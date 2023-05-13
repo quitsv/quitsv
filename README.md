@@ -1,8 +1,6 @@
 <h1 align="center">QUIT</h1>
 <h3 align="center">A gamer who likes to code</h3>
 
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qL5Xgd4JR8N5LpxFSbEkf7Hyve1IYtpWTk-XR4C5P8ankO7XA-f4iyOCfjtOdywoE_2g1ZC8vYhv23pjtgyU7otk6r=w1879-h962">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quitsv&label=Profile%20views&color=0e75b6&style=flat" alt="quitsv" /> </p>
 <a href="https://wakatime.com/@91349026-64f9-4c7f-9664-ab28340a4240"><img src="https://wakatime.com/badge/user/91349026-64f9-4c7f-9664-ab28340a4240.svg" alt="Total time coded since Mar 4 2023" /></a>
 
