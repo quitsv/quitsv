@@ -4,15 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quitsv&label=Profile%20views&color=0e75b6&style=flat" alt="quitsv" /> </p>
 <a href="https://wakatime.com/@91349026-64f9-4c7f-9664-ab28340a4240"><img src="https://wakatime.com/badge/user/91349026-64f9-4c7f-9664-ab28340a4240.svg" alt="Total time coded since Mar 4 2023" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quitsv" alt="quitsv" /></a> </p>
-
-- 🌱 I’m currently learning **Bangkit 2023 Program**
+- 🌱 I’m currently participating in **Bangkit 2023 Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/axell_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axell_sv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/axell-silvano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axell-silvano" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/quit_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="quit_sv" height="30" width="40" /></a>
 <a href="https://instagram.com/xel.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xel.sv" height="30" width="40" /></a>
 </p>
 
